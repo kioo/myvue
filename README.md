@@ -1,6 +1,7 @@
 # myvue
 
 > A Vue.js project
+a vue router pratice
 
 ## Build Setup
 
